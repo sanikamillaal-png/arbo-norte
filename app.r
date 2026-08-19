@@ -16,6 +16,10 @@ library(readxl)
 library(nominatimlite)
 library(geosphere)
 library(markdown)
+shiny::addResourcePath(
+  prefix = "recursos",
+  directoryPath = "www"
+)
 # -----------------------------------------------------------------------------
 # Arquivos auxiliares gerados automaticamente
 # -----------------------------------------------------------------------------
@@ -255,7 +259,7 @@ ui <- navbarPage(
         class = "hero",
         
         img(
-          src = "logo-sala-situacao-norte.png", 
+          src = "recursos/logo-sala-situacao-norte.png",
           alt = "Logo Sala de Situação Região de Saúde Norte"
         ),
         
