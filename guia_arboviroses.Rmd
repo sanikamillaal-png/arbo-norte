@@ -1,0 +1,47 @@
+## Como usar este guia
+
+Use os menus do site para consultar avaliação inicial, sinais de alarme, exames e rede local. O conteúdo clínico deve ser validado e atualizado pela área técnica responsável antes do uso institucional.
+
+## Fontes oficiais
+
+As orientações apresentadas neste site devem ser utilizadas em conjunto com os documentos oficiais vigentes do Ministério da Saúde, da Secretaria de Estado de Saúde do Distrito Federal, do LACEN-DF e da Região de Saúde Norte.
+
+### Documentos nacionais
+
+1. BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de Doenças Transmissíveis. **Dengue: diagnóstico e manejo clínico: adulto e criança**. 6. ed. Brasília, DF: Ministério da Saúde, 2024. Disponível em: [Portal do Ministério da Saúde](https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/dengue/dengue-diagnostico-e-manejo-clinico). Acesso em: 11 ago. 2026.
+
+2. BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. **Guia: plano de ação para redução da dengue e outras arboviroses**. Brasília, DF: Ministério da Saúde, 2024. Disponível em: [Plano de ação para redução da dengue e outras arboviroses](https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/guias-e-manuais/2024/guia-plano-de-acao-para-reducao-da-dengue-e-outras-arboviroses.pdf/view). Acesso em: 11 ago. 2026.
+
+3. BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. **Plano de ação do evento COE Dengue e outras arboviroses 2024**. Brasília, DF: Ministério da Saúde, 2024. Disponível em: [Plano de ação do evento COE Dengue e outras arboviroses](https://bvsms.saude.gov.br/bvs/publicacoes/plano_evento_coe_dengue_arboviroses_2024.pdf). Acesso em: 11 ago. 2026.
+
+### Documentos do Distrito Federal
+
+4. DISTRITO FEDERAL. Secretaria de Estado de Saúde. **Plano de enfrentamento da dengue e outras arboviroses: 2024-2027**. Brasília, DF: SES-DF, 2024. Disponível em: [Plano de enfrentamento da dengue e outras arboviroses](https://www.saude.df.gov.br/documents/37101/0/Plano-de-enfrentamento-arboviroses_231222_161225+(1).pdf/3061d8c1-7d45-cb9b-7584-5f49f9f73aff). Acesso em: 11 ago. 2026.
+
+5. DISTRITO FEDERAL. Secretaria de Estado de Saúde. **Plano de contingência para resposta às emergências em saúde pública por dengue, chikungunya e zika: 2024/2025**. Brasília, DF: SES-DF, 2024. Disponível em: [Plano de contingência para arboviroses](https://www.saude.df.gov.br/documents/37101/0/Plano+de+Comunica%C3%A7%C3%A3o+para+enfrentamento+de+Arboviroses+2024.pdf/f99f181f-a654-85ab-18e3-f5fa005298e6). Acesso em: 11 ago. 2026.
+
+6. DISTRITO FEDERAL. Secretaria de Estado de Saúde. **Dengue, chikungunya, zika e febre amarela: informes epidemiológicos**. Brasília, DF: SES-DF, [s. d.]. Disponível em: [Informes epidemiológicos de arboviroses](https://www.saude.df.gov.br/informes-dengue-chikungunya-zika-febre-amarela). Acesso em: 11 ago. 2026.
+
+7. DISTRITO FEDERAL. Secretaria de Estado de Saúde. **Boletim epidemiológico: monitoramento mensal das arboviroses no Distrito Federal**. Brasília, DF: SES-DF, 2025. Disponível em: [Boletim epidemiológico de arboviroses](https://saude.df.gov.br/documents/37101/0/22_BOLETIM_MENSAL_ARBOVIROSES_SE_22+DF+2025.pdf/9c82701d-b712-662e-64cd-b904c4e902e2). Acesso em: 11 ago. 2026.
+
+### Documentos e fluxos locais
+
+8. DISTRITO FEDERAL. Secretaria de Estado de Saúde. **Notas técnicas, procedimentos operacionais padrão e fluxos assistenciais para dengue e chikungunya**. Brasília, DF: SES-DF, [s. d.]. Documentos institucionais de circulação interna.
+
+9. DISTRITO FEDERAL. Secretaria de Estado de Saúde. Laboratório Central de Saúde Pública. **Orientações para coleta, acondicionamento, transporte e processamento de amostras para investigação de arboviroses**. Brasília, DF: LACEN-DF, [s. d.]. Documento institucional vigente.
+
+10. DISTRITO FEDERAL. Secretaria de Estado de Saúde. Região de Saúde Norte. **Fluxos locais de atendimento, encaminhamento, notificação e acompanhamento de casos suspeitos de arboviroses**. Brasília, DF: SES-DF, [s. d.]. Documento institucional vigente.
+
+## Observação sobre atualização
+
+Os protocolos, fluxos assistenciais, horários de funcionamento, contatos institucionais, unidades de referência e orientações laboratoriais podem ser atualizados pela Secretaria de Estado de Saúde do Distrito Federal.
+
+Antes de utilizar este guia em contexto assistencial, confirme:
+
+- a versão vigente de cada documento;
+- os fluxos atualizados da Região de Saúde Norte;
+- as orientações do LACEN-DF;
+- os contatos e horários das unidades;
+- as notas técnicas publicadas após a última revisão deste site.
+
+**Última revisão das referências:** 11 de agosto de 2026.
