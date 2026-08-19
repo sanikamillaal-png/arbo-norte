@@ -255,7 +255,7 @@ ui <- navbarPage(
         class = "hero",
         
         img(
-          src = "logo-sala-situacao-norte.png",
+          src = "www/logo-sala-situacao-norte.png",
           alt = "Logo Sala de Situação Região de Saúde Norte"
         ),
         
